@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ea6e027d93859545bd6dcc815f96688, type: 3}
+  m_Name: Dalga 3
+  m_EditorClassIdentifier: 
+  DusmanPrefab: {fileID: 3097631441538832482, guid: 7b476ab3408fe234ebb8699518f94c30, type: 3}
+  DusmanYolPrefab: {fileID: 4304995919375902762, guid: fc5278b076f76b74ebb2479ecb3c6c7b, type: 3}
+  SpawnlarArasiZaman: 0.1
+  SpawnRandomFaktor: 0.3
+  DusmanlarinSayisi: 10
+  DusmanHareketHizi: 10
